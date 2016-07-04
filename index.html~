@@ -28,7 +28,7 @@
 		<link rel="stylesheet" href="./assets/css/main.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="./assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="./assets/css/ie8.css" /><![endif]-->
-		<link rel="stylesheet" href="./fonts/github/octicons/octicons.css">
+		<link rel="stylesheet" href="./assets/fonts/github/octicons/octicons.css">
 	</head>
 	<body>
 	<div id="barra-identidade"><div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;"> 
@@ -54,6 +54,7 @@
 							<li><a href="#first">programação</a></li>
 							<li><a href="#second">curadoria</a></li>
 							<li><a href="#cta">assista</a></li>
+							<li><a href="#blog">blog</a></li>
 						</ul>
 					</nav>
 
@@ -144,7 +145,7 @@
 								</footer>
 							</section>
 
-						<!-- Get Started -->
+						<!-- Third Section -->
 							<section id="cta" class="main special">
 								<header class="major">
 									<h2>Congue imperdiet</h2>
@@ -155,6 +156,19 @@
 									<ul class="actions">
 										<li><a href="generic.html" class="button special">Get Started</a></li>
 										<li><a href="generic.html" class="button">Learn More</a></li>
+									</ul>
+								</footer>
+							</section>
+							
+						<!-- Fourth Section -->
+							<section id="blog" class="main special">
+								<header class="major">
+									<h2>Leia o nosso blog</h2>
+									<p><font size="4">Receba as nossas postagens sobre a Sala Alternativa, cinema independente, sociedade, cutura e nossos melhores pensamentos e ideias</font></p>
+								</header>
+								<footer class="major">
+									<ul class="actions">
+										<li><a href="http://blog.cinemanoiff.com/" class="button">acessar o blog</a></li>
 									</ul>
 								</footer>
 							</section>
@@ -184,10 +198,11 @@
 								<li><a target="_blank" href="#" class="icon fa-twitter alt"><span class="label">Twitter</span></a></li>
 								<li><a target="_blank" href="#" class="icon fa-facebook alt"><span class="label">Facebook</span></a></li>
 								<li><a target="_blank" href="#" class="icon fa-instagram alt"><span class="label">Instagram</span></a></li>
+								<li><a target="_blank" href="http://blog.cinemanoiff.com/" class="icon fa-wordpress alt"><span class="label">Blog</span></a></li>
 								<li><a target="_blank" href="https://github.com/IFFAlternativo" class="icon fa-github alt"><span class="label">GitHub</span></a></li>
 							</ul>
 						</section>
-						<p>Este site foi feito com <span class="octicon octicon-heart"></span> & <a target="_blank" href="http://softwarelivre.org/">software livre</a> no <i>campus</i> Campos Centro.<br>Saiba mais sobre as tecnologias que utilizamos no projeto Sala Alternativa, clique <a href="#">aqui.</a><br>Acesse: <a target="_blank" href="http://www.iff.edu.br/">Portal do IFFluminense</a> &bull; <a target="_blank" href="http://institutofederal.mec.gov.br/">Portal da Rede Federal</a></p>
+						<p class="copyright">Este site foi feito com <span class="octicon octicon-heart"></span> & <a target="_blank" href="https://html5up.net/license">software livre</a> no <i>campus</i> Campos Centro.<br>Saiba mais sobre as tecnologias que utilizamos no projeto Sala Alternativa, clique <a href="#">aqui.</a><br>Acesse: <a target="_blank" href="http://www.iff.edu.br/">Portal do IFFluminense</a> &bull; <a target="_blank" href="http://institutofederal.mec.gov.br/">Portal da Rede Federal</a></p>
 					</footer>
 			</div>
 					<div id="footer-brasil" class="footer-logos">
