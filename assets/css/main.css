@@ -616,7 +616,7 @@ input[type="radio"]:focus + label:before{border-color:#8cc9f0;box-shadow:0 0 0 1
 .icon.major:before{display:inline-block;font-size:6.25rem;width:2.25em;height:2.25em;line-height:2.2em;border-radius:100%;border:solid 1px;text-align:center;}
 .icon.alt{display:inline-block;border:solid 1px;border-radius:100%;}
 .icon.alt:before{display:block;font-size:1.25em;width:2em;height:2em;text-align:center;line-height:2em;}
-.icon.style1{color:#efa8b0;}
+.icon.style1{color:#37A6A6;}
 .icon.style2{color:#c79cc8;}
 .icon.style3{color:#a89cc8;}
 .icon.style4{color:#9bb2e1;}
