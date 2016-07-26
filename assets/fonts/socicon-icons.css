@@ -3,11 +3,11 @@
 /* socicon */
 @font-face {
   font-family: "socicon";
-  src:url("https://file.myfontastic.com/n6vo44Re5QaWo8oCKShBs7/fonts/1467898515.eot");
-  src:url("https://file.myfontastic.com/n6vo44Re5QaWo8oCKShBs7/fonts/1467898515.eot?#iefix") format("embedded-opentype"),
-    url("https://file.myfontastic.com/n6vo44Re5QaWo8oCKShBs7/fonts/1467898515.woff") format("woff"),
-    url("https://file.myfontastic.com/n6vo44Re5QaWo8oCKShBs7/fonts/1467898515.ttf") format("truetype"),
-    url("https://file.myfontastic.com/n6vo44Re5QaWo8oCKShBs7/fonts/1467898515.svg#1467898515") format("svg");
+  src:url("https://file.myfontastic.com/n6vo44Re5QaWo8oCKShBs7/fonts/1469036986.eot");
+  src:url("https://file.myfontastic.com/n6vo44Re5QaWo8oCKShBs7/fonts/1469036986.eot?#iefix") format("embedded-opentype"),
+    url("https://file.myfontastic.com/n6vo44Re5QaWo8oCKShBs7/fonts/1469036986.woff") format("woff"),
+    url("https://file.myfontastic.com/n6vo44Re5QaWo8oCKShBs7/fonts/1469036986.ttf") format("truetype"),
+    url("https://file.myfontastic.com/n6vo44Re5QaWo8oCKShBs7/fonts/1469036986.svg#1469036986") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -472,4 +472,19 @@
 }
 .socicon-keybase:before {
   content: "\e090";
+}
+.socicon-alliance:before {
+  content: "\e091";
+}
+.socicon-livejournal:before {
+  content: "\e092";
+}
+.socicon-googlephotos:before {
+  content: "\e093";
+}
+.socicon-horde:before {
+  content: "\e094";
+}
+.socicon-etsy:before {
+  content: "\e095";
 }
